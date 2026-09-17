@@ -53,7 +53,7 @@ Chức năng chính:
 - **Cầu nối Bukkit → Velocity**: gửi trạng thái CombatTag qua kênh Plugin Messaging để Velocity biết người chơi có đang giao chiến hay không, kể cả khi họ đổi server hoặc rời cụm.
 - **Dịch vụ trừng phạt phía Velocity**: `CombatPunishmentService` cho phép ngắt kết nối hoặc chạy lệnh console tùy chỉnh — hiện được **expose qua API để bên thứ ba tự gọi**, xem lưu ý ở [mục 6](#những-điều-cần-biết-trước-khi-tích-hợp).
 
-Không tìm thấy file `README.md` nào trong mã nguồn tại thời điểm viết tài liệu này — đây là tài liệu tham khảo API độc lập, có thể đặt tại `API.md` hoặc `docs/API.md` trong repository.
+ 
 
 ---
 
